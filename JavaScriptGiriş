@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="ödev.css">
+  
+
+   <a href="JavaScriptGiriş.html" target=-blank>JavaScriptGiriş</a>          
+        
+</head>
+<body bgcolor="#AAA7C1">
+
+	<h1>javaScript Giriş</h1>
+
+	<p> Javascript Netscape firması tarafından C tabanında geliştirilmiş bir script dilidir. </p>
+     <p>  Script dillerinin özelliği derlenebilir bir dosya oluşturmaz. JS uzantılı dosyalarla sunucu üzerinden çalışır. </p>
+    <p>Javascript web sayfalarında client tarafından çalıştığı için hızlıdır. </p>
+
+    <h1>JavaScript'in Özellikleri</h1>
+    
+    	<li>Kullanıcı taraflı çalışan bir dildir. (client)</li>
+    	<li>Javascript kodlarıyla bilgisayardan herhangi bir dosya okunamaz,yazılamaz ve dosya oluşturulamaz. Çerezler bu durumun dışındadır</li>
+    	<li>Html sayfaların bir parçasıdır. Tek başlarına bir anlam ifade etmezler.</li>
+    	<li>Tarayıcılar tarafından yorumlanır. Bu yine kullanıcı taraflılığıyla ilgilidir.</li>
+    	<li>Html içine gömüldüğü gibi .js uzantılı ek sayfa olarakta kullanılabilir.</li>
+    	<li>Herhangi bir metin editörüyle geliştirilebilir.</li>
+    	<li>Tarayıcılarda farklılık gösterebilir. İE bu konuda çok başarılıdır(!). Neyseki bunu jQuery kütüphaneleriyle çözüme kavuşturduk. İleride belki jQueryede sitemizde yer verebiliriz.</li>
+    
+</body>
+   

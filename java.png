@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<base href="https://www.iienstitu.com/">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="csrf-token" content="mkm3hQCrcVeH9RKlvtkJMW1yx2rqe9jLp7XEd3B7">
+<script src="/cdn-cgi/apps/head/xLvKO0IM0R5z2aKpMrQI6WvPh6w.js"></script><link rel="shortcut icon" href="https://www.iienstitu.com/img/favicon.ico" />
+<title>Java Web Programlama Dili Nedir? | İstanbul İşletme Enstitüsü</title>
+<meta name="description" content="Java 1996 yılında Sun Microsystems mühendisi James Gosling tarafından geliştirilmiş açık kodlu bir programlama dilidir. Platformdan bağımsız, nesneye dönük, çok işlevli, yüksek performanslı, yüksek seviye ve adım adım işletilen bir dildir" />
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.iienstitu.com/blog/java-web-programlama-dili-nedir" />
+<meta name="image" content="https://www.iienstitu.com/uploads/enstitu-blog-foto-07/java-web-1_w540_op_op.png">
+<meta name="og:title" content="Java Web Programlama Dili Nedir?">
+<meta name="og:description" content="Java 1996 yılında Sun Microsystems mühendisi James Gosling tarafından geliştirilmiş açık kodlu bir programlama dilidir. Platformdan bağımsız, nesneye dönük, çok işlevli, yüksek performanslı, ">
+<meta name="og:image" content="https://www.iienstitu.com/uploads/enstitu-blog-foto-07/java-web-1.png">
+<meta name="og:url" content="https://www.iienstitu.com/blog/java-web-programlama-dili-nedir">
+<meta name="og:site_name" content="İstanbul İşletme Enstitüsü">
+<meta name="og:locale" content="tr_TR">
+<meta name="og:type" content="website">
+<link media="all" type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+<link media="all" type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+<link media="all" type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link media="all" type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link media="all" type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
+<link media="all" type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+<link media="all" type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/16.0.2/css/intlTelInput.css">
+<link media="all" type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/card/2.4.0/card.css">
+<link media="all" type="text/css" rel="stylesheet" href="https://www.iienstitu.com/css/render/style.css?v=1585829271">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-54395914-2" type="49cc369430ec3adf02f9faab-text/javascript"></script>
+<script type="49cc369430ec3adf02f9faab-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-54395914-2');
+</script>
+<script type="49cc369430ec3adf02f9faab-text/javascript">
+        var domain = "https://www.iienstitu.com";
+    </script>
+<style>
+        .icerik ul li a{ color: #007bff !important; }
+    </style>
+<style>
+        .likecount.active {
+            color: #00a86b !important;
+        }
+
+        .dislikecount.active {
+            color: red !important;
+        }
+    </style>
+<script type="49cc369430ec3adf02f9faab-text/javascript">
+        window._S_T ||
+        (function(d, css){
+            var c = d.createElement('style'),
+                s = d.createElement('script'),
+                u = s.onload===undefined && s.onreadystatechange===undefined,
+                r = function() {c.parentNode && h.removeChild(c)},
+                i = 0,
+                l = function(t) {t.async=t.blocking=true; t.reg_ondropcss(r); t.setup(5391, "iienstitu.com *.iienstitu.com")},
+                f = function() {window._S_T ? l(_S_T) : i++<120 && setTimeout(f, 600)},
+                H = d.getElementsByTagName('head'),
+                h = H && H[0] || d.documentElement;
+            s.async = true;
+            s.src = '\/\/counter.personyze.com\/stat-track-lib.js';
+            s.onload = s.onreadystatechange = f;
+            h.appendChild(c);
+            h.appendChild(s);
+            if (c.styleSheet) c.styleSheet.cssText = css;
+            else c.appendChild(d.createTextNode(css));
+            if (u) f();
+            setTimeout(r, 2000);
+        })(document, 'body {visibility:hidden}');
+    </script>
+</head>
+<body class=" animated fadeIn">
+<div class="mobilMenu">
+<div class="main">
+<div class="close-btn"><img src="/img/x.svg" alt="Close"></div>
+<ul>
+<li><a href="https://www.iienstitu.com">Anasayfa</a></li>
+<li data-menu-slug="egitimler"><a href="javascript:;">Eğitimler</a></li>
+<li data-menu-slug="egitmenler"><a href="javascript:;">Eğitmenler</a></li>
+<li data-menu-slug="sertifika"><a href="javascript:;">Sertifika</a></li>
+<li><a href="https://www.iienstitu.com/sik-sorulan-sorular">Destek</a></li>
+<li data-menu-slug="blog"><a href="javascript:;">Blog</a></li>
+<li><a href="https://www.iienstitu.com/enstitu-hakkinda">Hakkımızda</a></li>
+<li><a href="https://www.iienstitu.com/haberler">Haberler</a></li>
+<li><a href="https://www.iienstitu.com/kurumlara-ozel-egitimler">Kurumlara Özel Eğitimler</a></li>
+<li><a href="https://www.iienstitu.com/iletisim">İletişim</a></li>
+<li><a href="https://www.iienstitu.com/giris">Giriş Yap veya Kaydol</a></li>
+<hr>
+<li><a class="beamerTrigger" style="margin-right: 95px;padding-top: 0;"><i class="far fa-bell" style="font-size: 20px;"></i> Bildirimler</a></li>
+</ul>
+<div class="submenus" data-menu-slug="egitimler">
+<div class="geri"><i class="fa fa-angle-left"></i> geri dön</div>
+<ul>
+<li>Ücretsiz Eğitimler</li>
+<li><a href="/online-egitimler/kisisel-gelisim-egitimleri">Kişisel Gelişim Eğitimleri</a></li>
+<li><a href="/online-egitimler/satis-ve-pazarlama-egitimleri">Satış ve Pazarlama Eğitimleri</a></li>
+<li><a href="/online-egitimler/iletisim-egitimleri">İletişim Eğitimleri</a></li>
+<li><a href="/online-egitimler/is-hayati-egitimleri">İş Hayatı Eğitimleri</a></li>
+<li><a href="/online-egitimler/finans-muhasebe-egitimleri">Finans - Muhasebe Eğitimleri</a></li>
+<li><a href="/online-egitimler/yabanci-dil-egitimleri">Yabancı Dil Eğitimleri</a></li>
+<li><a href="/online-egitimler/isletme-egitimleri">İşletme Eğitimleri</a></li>
+<li><a href="/online-egitimler/insan-kaynaklari-egitimleri">İnsan Kaynakları Eğitimleri</a></li>
+<li><a href="/online-egitimler/yazilim-ve-bilisim-egitimleri">Yazılım ve Bilişim Eğitimleri</a></li>
+<li><a href="https://www.iienstitu.com/online-egitimler"><b>Tüm Eğitimler</b></a></li>
+<li><a href="https://www.iienstitu.com/egitim-takvimi">Eğitim Takvimi</a></li>
+</ul>
+
+</div>
+<div class="submenus" data-menu-slug="sertifika">
+<div class="geri"><i class="fa fa-angle-left"></i> geri dön</div>
+<ul>
+<li><a href="https://www.iienstitu.com/sertifika">Sertifika Hakkında</a></li>
+<li><a href="https://www.iienstitu.com/sertifika-sorgulama">Sertifika Sorgulama</a></li>
+<li><a href="https://www.iienstitu.com/sertifika-ornekleri">Sertifika Örnekleri</a></li>
+</ul>
+</div>
+<div class="submenus" data-menu-slug="blog">
+<div class="geri"><i class="fa fa-angle-left"></i> geri dön</div>
+<ul>
+<li><a href="https://www.iienstitu.com/blog">Blog</a></li>
+<li><a href="https://www.iienstitu.com/yazarlar">Yazarlar</a></li>
+<li><a href="https://www.iienstitu.com/blog-yazari-basvurusu">Blog Yazarı Olun</a></li>
+</ul>
+</div>
+<div class="submenus" data-menu-slug="egitmenler">
+<div class="geri"><i class="fa fa-angle-left"></i> geri dön</div>
+<ul>
+<li><a href="https://www.iienstitu.com/egitmenler">Akademik Kadro</a></li>
+<li><a href="https://www.iienstitu.com/egitmenlik-basvurusu">Eğitmenlik Başvurusu</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="subMenu">
+<div class="right">
+<div class="close-btn"><img src="https://www.iienstitu.com/img/x.svg" alt="Close"></div>
+<ul>
+<li>Ücretsiz Eğitimler</li>
+<li><a href="/online-egitimler/kisisel-gelisim-egitimleri">Kişisel Gelişim Eğitimleri</a></li>
+<li><a href="/online-egitimler/satis-ve-pazarlama-egitimleri">Satış ve Pazarlama Eğitimleri</a></li>
+<li><a href="/online-egitimler/iletisim-egitimleri">İletişim Eğitimleri</a></li>
+<li><a href="/online-egitimler/is-hayati-egitimleri">İş Hayatı Eğitimleri</a></li>
+<li><a href="/online-egitimler/finans-muhasebe-egitimleri">Finans - Muhasebe Eğitimleri</a></li>
+<li><a href="/online-egitimler/yabanci-dil-egitimleri">Yabancı Dil Eğitimleri</a></li>
+<li><a href="/online-egitimler/isletme-egitimleri">İşletme Eğitimleri</a></li>
+<li><a href="/online-egitimler/insan-kaynaklari-egitimleri">İnsan Kaynakları Eğitimleri</a></li>
+<li><a href="/online-egitimler/yazilim-ve-bilisim-egitimleri">Yazılım ve Bilişim Eğitimleri</a></li>
+<li><a href="https://www.iienstitu.com/online-egitimler"><b>Tüm Eğitimler</b></a></li>
+<li><a href="https://www.iienstitu.com/egitim-takvimi?t=online-egitimler">Eğitim Takvimi</a></li>
+</ul>
+
+</div>
+<div class="left">
+<div class="close-btn"><img src="https://www.iienstitu.com/img/x.svg" alt="Close"></div>
+<ul data-menu="main">
+<li><a href="https://www.iienstitu.com/enstitu-hakkinda">Hakkımızda</a></li>
+<li><a href="https://www.iienstitu.com/haberler">Haberler</a></li>
+<li><a href="https://www.iienstitu.com/kurumlara-ozel-egitimler">Kurumlara Özel Eğitimler</a></li>
+<li><a href="https://www.iienstitu.com/iletisim">İletişim</a></li>
+</ul>
+<ul data-menu="sertifika">
+<li><a href="https://www.iienstitu.com/sertifika">Sertifika Hakkında</a></li>
+<li><a href="https://www.iienstitu.com/sertifika-sorgulama">Sertifika Sorgulama</a></li>
+<li><a href="https://www.iienstitu.com/sertifika-ornekleri">Sertifika Örnekleri</a></li>
+</ul>
+<ul data-menu="destek">
+<li><a href="https://www.iienstitu.com/online-egitim-nasil-yapiliyor">Online Eğitim Nasıl Yapılıyor?</a></li>
+<li><a href="https://www.iienstitu.com/sik-sorulan-sorular">Destek Masası (SSS)</a></li>
+</ul>
+<ul data-menu="blog">
+<li><a href="https://www.iienstitu.com/blog">Blog</a></li>
+<li><a href="https://www.iienstitu.com/yazarlar">Yazarlar</a></li>
+<li><a href="https://www.iienstitu.com/blog-yazari-basvurusu">Blog Yazarı Olun</a></li>
+</ul>
+<ul data-menu="egitmenler">
+<li><a href="https://www.iienstitu.com/egitmenler">Akademik Kadro</a></li>
+<li><a href="https://www.iienstitu.com/egitmenlik-basvurusu">Eğitmenlik Başvurusu</a></li>
+</ul>
+</div>
+</div>
+<header>
+<div class="container">
+<div class="mobile-menu-bar">
+<img src="https://www.iienstitu.com/img/bars.svg" alt="Mobil Menu Bars">
+</div>
+<div class="logo">
+<a href="https://www.iienstitu.com">
+<img src="https://www.iienstitu.com/img/logo.png" alt="Logo">
+<span>İstanbul İşletme Enstitüsü</span>
+</a>
+</div>
+<div class="menu">
+<ul>
+<li data-menu="egitimler"><a href="javascript:;">Eğitimler</a></li>
+<li data-menu="egitmenler"><a href="javascript:;">Eğitmenler</a></li>
+<li data-menu="sertifika"><a href="javascript:;">Sertifika</a></li>
+<li data-menu="destek"><a href="javascript:;">Destek</a></li>
+<li data-menu="blog"><a href="javascript:;">Blog</a></li>
+<li data-menu="main">
+<a href="javascript:;">
+<img src="https://www.iienstitu.com/img/bars.svg" alt="Submenu Bars">
+</a>
+</li>
+</ul>
+</div>
+<div class="right-area">
+<div class="search">
+<div class="search-area">
+<form action="https://www.iienstitu.com/ara" id="generalSearch" method="GET">
+<input type="text" required autocomplete="off" name="q" placeholder="Ne aramıştınız?">
+<input class="ara-btn" type="submit" value="" />
+</form>
+</div>
+</div>
+<a class="btn btn-reds beamerTrigger"><i class="far fa-bell" style="font-size: 30px;"></i></a>
+<div class="sepet">
+<i id="count"></i>
+<div class="sepetcontent">
+</div>
+</div>
+<div class="after">
+<div class="mobile-login" onclick="if (!window.__cfRLUnblockHandlers) return false; window.location='https://www.iienstitu.com/giris';" data-cf-modified-49cc369430ec3adf02f9faab-=""></div>
+<a href="https://www.iienstitu.com/giris">Giriş Yap</a>
+<a href="https://www.iienstitu.com/register">Kaydol</a>
+</div>
+</div>
+</div>
+</header>
+<div class="page" id="blogdetay">
+<div class="header-title scrolldownfix">
+<div class="container">
+<h1>Java Web Programlama Dili Nedir?</h1>
+<div class="desc">
+03 Ocak 2020,
+3535 defa okundu.
+</div>
+<div class="fixed"><div class="container">Java Web Programlama Dili Nedir?</div></div>
+</div>
+</div>
+<div class="container">
+<div class="mcbreadcrumb">
+<ul itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/" title="Ana Sayfa">
+<span itemprop="name">Ana Sayfa</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="https://www.iienstitu.com/blog" title="Blog">
+<span itemprop="name">Blog</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="https://www.iienstitu.com/kategoriler/bilisim" title="Bilişim">
+<span itemprop="name">Bilişim</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="https://www.iienstitu.com/blog/java-web-programlama-dili-nedir" title="Java Web Programlama Dili Nedir?">
+<span itemprop="name">Java Web Programlama Dili Nedir?</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ul>
+</div>
+<div class="contentarea">
+<div class="row">
+<div class="col-md-9">
+<div class="detayimg">
+<img src="https://www.iienstitu.com/uploads/enstitu-blog-foto-07/java-web-1_w1145_h572_op.png" alt=" java programlama, java kodlama, java dili, java ile android, programlama dili, web programlama dili, java web programlama,">
+</div>
+<div class="icerik">
+<p>Web programlama dili içerisinde kesin kurallar yoktur.<a href="https://www.iienstitu.com/blog/icerik-nedir"> İçerik </a>ve teknikleri oluşturulurken kullanacağınız teknik ve yöntemler size aittir. Bu durum kullanacağınız dillerde farklılık gösterebilir. Bu farklılık kullanım amacınız ve ihtiyacınıza göre şekil alır. Ancak web programlama dilleri, içeriğin kullanım amacınıza hitap etmesi açısından önem taşır. Bu yüzden web programlama dilleri hakkında bilgi sahibi olmanız gerekir. Java da web programlama dillerinden birisidir.</p>
+<p><strong><span style="background-color:#ffff66">Java 1996 yılında Sun Microsystems mühendisi James Gosling tarafından geliştirilmiş açık kodlu bir programlama dilidir.</span></strong> Platformdan bağımsız, nesneye dönük, çok işlevli, yüksek performanslı, yüksek seviye ve adım adım işletilen bir dildir. Döneminde ortaya çıkan sorunlara çözüm amaçlı üretilen bir programlama dilidir. Döneminde platformlardan bağımsız bir dilin yaratılması ihtiyacı vardı. Bu ihtiyacı karşılayarak her platformda çalışan Java programla dili yaratıldı.</p>
+<p>Genel olarak Java dili basit ve kolay öğrenilen bir dildir. Hızlı bir uygulama geliştirme aracı ve kullanıcı dostudur. Genel amaçlı bir dilin çoğu hünerlerini barındırır.</p>
+<h2>Java ile Android Programlama</h2>
+<p>Günümüzde teknolojik aletlerin kullanımı oldukça yüksektir. Son zamanlarda en popüler teknolojik alet şüphesiz akıllı telefonlardır. Yaşamımızın vazgeçilmez teknolojik ürünü olan akıllı telefonlar işletim sistemine sahiptir. Bu işletim sistemlerinden biri de Android işletim sistemidir. Peki, Android işletim sisteminde uygulama geliştirmek için neler yapılmalı? Java ile Android programlama arasındaki bağlantı nedir bunları öğrenelim.</p>
+<p><img alt=" java programlama, java kodlama, java dili, java ile android, programlama dili, web programlama dili, java web programlama," src="https://www.iienstitu.com/uploads/enstitu-blog-foto-07/java-web-2.jpg" style="margin-bottom:15px; margin-top:15px" /></p>
+<p>Akıllı telefon uygulaması geliştirmek için bireylerin<a href="https://www.iienstitu.com/online-egitim/temel-programlama-egitimi"> temel programlama </a>alanında belirli bir alt yapıya sahip olması gerekir. Belirli bir yetkinliğe ulaşması gerekir. Peki, Android programlama yapabilmek için hangi dillerin bilinmesi gerekir? Akıllı telefon uygulamaları, C++ Android programlama veya <strong><a href="https://www.iienstitu.com/online-egitim/c-sharp-egitimi" target="_blank">C#</a></strong> Android programlama ile yazılabilir. Bu programlama dilleri ile yazılabilmesinin yanında genel olarak Java ile Android yazılabilmektedir. &nbsp;</p>
+<p>Android programlama dilleri mevcut ürüne göre değişiklik gösterebilmektedir. Örneğin; Android’de uygulama geliştirmek için Java dili bilmek gerekirken, iPhone’da uygulama geliştirmek için Objective-C bilmek gerekir. Android açık kaynak kodlu bir mobil işletim sistemine sahiptir. Android, Java yazılım çekirdeğinden yaratılmıştır. Bu sebepten dolayı Android uygulama geliştirmek için Java programlama dili bilmek gerekir.</p>
+<p>Java dili hakkında ne kadar çok bilgiye sahipseniz o kadar yaratıcı ve özgün işler ortaya çıkarabilirsiniz.&nbsp; Android için uygulama geliştirirken başka platform uygulamalara da ihtiyacınız olmaktadır. Java dili ile tasarladığınız uygulamayı bu platformlara uygun hale getirdikten sonra uygulama tamamlanmaktadır. Uygulama tamamlandıktan sonra geliştirici durumunda oluyorsunuz. Daha sonra da Google Play Store üzerinden ücretli ya da ücretsiz uygulamalarınızı veya oyunlarınızı paylaşmanız mümkün hale gelmektedir.</p>
+<p>Android yazılım geliştirmek için Java ve C# bilgisine ihtiyaç vardır. Java çekirdek kodlarıyla oluşturulmuş bu sistemde çalışacak olan uygulamaların Java ile yazılması gerekmektedir. Java dili dışında Android <a href="https://www.iienstitu.com/online-egitimler/yazilim-ve-bilisim-egitimleri">yazılım </a>geliştirmek için hazır şablonlar da bulunmaktadır. Bu hazır programlar başkalarına ait olduğu için yaratıcı ve özgün uygulamalar yapma şansınız yoktur. Bu ancak Java dili ile mümkündür.</p>
+<p>Android uygulama geliştirme programı denildiğinde aklımıza hemen Java gelmektedir. Ancak Java programlama, tam anlamıyla Android program geliştirmek için yeterli değildir. Bunun yanında ek platformlara ihtiyaç duyulur. Bunlar; Java JDK, Eclipse, Android SDK’dir. Bu üç araç sayesinde yeni uygulamalar yazabilmenin yanında var olan uygulamalar da geliştirilebilir. Java dili bizlere kaynak kodlar ile uygulama yazmaya yardımcı olur.</p>
+<p>Android programlama geliştirme işlemini Java dili ile yaptığımız için Java JDK’ya sahip olmanız gerekir.&nbsp; Son sürümüne sahip olduğunuzdan emin olmalısınız. Daha sonra Eclipse Classic versiyonunun son sürümünü kullanmanız gerekir. Eclipse üzerinden gerekli eklentileri kurmanız gerekir. Son olarak SDK indirmeniz gerekir. SDK indirdikten sonra C üzerinde gerekli klasörün içine taşımanız gerekir. Taşıdıktan sonra SDK Manager ibaresine tıklayarak işlem yapacağınız Android sürümlerine tik işareti koymalısınız. Daha sonra Install Package’s ile o sürümlere ait dosyaları yüklemelisiniz. Bu süreçte bilgisayarınızda bulunan Eclipse editörü ve SDK’lar entegre olduktan sonra editörümüz uygulama geliştirmek için hazır hale gelmiş olur.</p>
+<h2><img alt=" java programlama, java kodlama, java dili, java ile android, programlama dili, web programlama dili, " src="https://www.iienstitu.com/uploads/enstitu-blog-foto-08/jawa-web-02.jpg" style="margin-bottom:15px; margin-top:15px" /></h2>
+<h2>Java Kodlama Dili Nedir?</h2>
+<p><strong>Java kodlama dil, sınıf temelli nesneye yönelik bir dildir.</strong> Yazım olarak C++ ile benzerlikler gösterir. Genellikle <strong><a href="https://www.iienstitu.com/blog/programlama-dilleri-nelerdir">programlama dilleri</a></strong>&nbsp;neler? bunları öğrenmeye yeni başlamış olan bireyler için&nbsp;<em>“Merhaba Dünya”</em> programını öğrenerek başlanması tavsiye edilir. Bu program sayesinde ilk defa program yapacak olan bireyler program yapılmasını sağlayan söz dizimini öğrenmiş olurlar.</p>
+<ul>
+<li>“<em>MerhabaDünya .java</em>” ve “<em>public class MerhabaDünya</em>” bu alanda iki isimin de aynı olma zorunluluğu vardır. Aksi durumda çalıştırılamaz.</li>
+<li><span style="font-size:7pt"><strong>&nbsp;</strong></span><!--[endif]--><strong>class:</strong> Sınıf tanımlayabilmek için ön ek olarak şarttır.</li>
+<li><strong>public:</strong> Sınıfın dışarıdan erişilir olduğunu belirtir.</li>
+<li><strong>static: </strong>Sınıf tarafından paylaşıldığını belirtir.</li>
+<li><strong>void</strong>: Bir değer döndürmediği anlamı taşır.</li>
+<li>Public ve static erişim belirleyicisi olarak da anılır.</li>
+<li><strong>String Ars []:</strong> Parantez içinde sistemin aldığı parametreler belirlenir. &nbsp;String, sınıf adı demektir. Args’da parametre adıdır. “<em>[]</em>” ise Args’ın bir dizi olduğunu belirtir.</li>
+<li>“<em>System.out.println();</em>" ile&nbsp;yazmak istediğiniz yazıyı yazdırabilme ve yeni satıra geçebilmeyi sağlar.</li>
+<li><strong><span style="background-color:#ffff66">Java kodlama, Türkçe karakterleri değişken ve sınıf adlarında kullanmanıza izin veren bir dildir.</span></strong></li>
+</ul>
+<p>Merhaba Dünya programı örnek söz dizimi;</p>
+<ul>
+<li><em>“// MerhabaDünya.java</em></li>
+<li><em>&nbsp;public class MerhabaDünya{</em></li>
+<li><em>&nbsp;public static void main(String[] args) {</em></li>
+<li><em>System.out.println("Merhaba Dünya!");</em></li>
+<li><em>}</em></li>
+<li><em>}</em>”</li>
+</ul>
+<p>Java kodlama dili ile yazılan yazıları derlemek için sınıf adı ile aynı ada sahip olan dosya ismine sahip olmak gerekmektedir. Javac yazılan programı derler. “<em>.class</em>” uzantılı bir dosya yaratır. Bu sınıf dosyalarını JVM’de çalışabilecek bytecode’lar içerir.&nbsp;Uygulamayı çalıştırabilmek için “ <em>java MerhabaDünya</em>” &nbsp;yazmanız gerekir. Java komutu, sınıf yolunda “<em>MerhabaDünya</em>” sınıfını arar. Bulduğunda da “<em>MerhabaDünya</em>” sınıfında “<em>main</em>” metotunu arar ve bulduğunda da metot icra edilmiş olur.</p>
+<h3><img alt=" java ile android, programlama dili, web programlama dili, java web programlama," src="https://www.iienstitu.com/uploads/enstitu-blog-foto-08/jawa-web-01.jpg" style="margin-bottom:15px; margin-top:15px" /></h3>
+<h3>Java Programlama Bireye Hangi Kazanımları Sağlar?</h3>
+<ul>
+<li>Java dili bilgisayarla ilgili çoğu konuda işe yarayan bir programlama dili olduğu için bütün dünyada bu programı bilen kişiler avantajlı konumdadır.</li>
+<li>Java programlama bilen bireyler kolay ve yüksek ücretli iş imkanları bulurlar.</li>
+<li><strong>Java dili, basit bir dil olduğu için diğer dillere kıyasla öğrenilmesi daha kolaydır.</strong></li>
+<li>Java programlama, aynı işi yapan farklı programlama dili olan C++’ın dörtte biri kadar uzundur. Dolayısıyla Java kodlama yazarken zaman ve emek tasarrufu yapmış olursunuz.</li>
+<li>Java kodlama ile daha kolay kod yazarsınız. Java API gereksinim duyacağınız her sınıfı ve metodu hazır verir.</li>
+<li>Yazdığınız Java uygulamasını her yerde çalıştırabilme avantajınız vardır.</li>
+<li>Yazmış olduğunuz uygulamalar, her platformda kullanılır. Bu sayede uygulamalarınızı kolayca yayabilme imkanı verir.</li>
+</ul>
+<h3>Dünyada Java Kullanımı</h3>
+<p>Java programlama çok geniş kullanım alanına sahiptir. Dizüstü bilgisayarlardan veri depolama merkezlerine, cep telefonlarından internete, oyun konsollarından süper bilgisayarlara kadar her yerde bulunur.</p>
+<ul>
+<li>Dünyada 9 milyon Java geliştiricisi bulunmaktadır.</li>
+<li>Geliştiricilerin 1 numaralı seçimi olarak belirtilmektedir.</li>
+<li><strong>Şirket masaüstü bilgisayarlarının %97’sinde Java uygulaması bulunmaktadır.</strong></li>
+<li>Java, dünyadaki 3 milyar cep telefonunda bulunmaktadır.</li>
+<li>5 milyar Java kartı kullanılır durumdadır.</li>
+<li>125 milyon televizyon cihazı Java kullanmaktadır.</li>
+<li><span style="font-size:7pt">&nbsp;</span><!--[endif]-->Amerika’daki bilgisayarların %89’unda Java bulunmaktadır.</li>
+<li>En iyi orijinal parça üreticisi Java ME kullanmaktadır.</li>
+</ul>
+<p><strong>Java Web Programlama Dili Nedir?</strong></p>
+<p>1996 yılında geliştirilen açık kodlu programlama dilidir.&nbsp; Platformdan bağımsız, nesneye dönük ve çok işlevli bir dildir. Hızlı uygulama geliştirici ve kolay öğrenilen bir dildir.</p>
+<p><strong>&nbsp;Java ile Android Programlama Arasındaki İlişki Nedir?</strong></p>
+<p>Android’de uygulama geliştirirken Java dili bilmek gerekir. Android, Java yazılım çekirdeğinden yaratılmıştır. Java dilini bilmenin yanında Java JDK, Eclipse ve Android SDK araçları yardımıyla Android uygulamalar yapılır.</p>
+<p><strong>Java Programlama Bireye Hangi Kazanımları Sağlar?</strong></p>
+<p>Bu programlama dilini bilen kişiler dünyanın her yerinde iş bulma fırsatı yakalar. Java dili basit bir dil olduğundan öğrenilmesi kolaydır. Java ile yazmış olduğunuz uygulamalar her platformda kullanılır bu da uygulamalarınızın kolayca yayılmasını sağlar.</p>
+</div>
+<div class="hakkinda">
+<div class="paylas">
+<span>Bu yazıyı beğendiysen<br>şimdi paylaş!</span>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.iienstitu.com/blog/java-web-programlama-dili-nedir" target="_blank"><i class="fa fa-facebook"></i></a>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.iienstitu.com%2Fblog%2Fjava-web-programlama-dili-nedir&amp;text=Java Web Programlama Dili Nedir?%0A%0AWeb programlama dili içerisinde kesin kurallar yoktur. İçerik ve teknikl..." target="_blank"><i class="fa fa-twitter"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.iienstitu.com/blog/java-web-programlama-dili-nedir" target="_blank"><i class="fa fa-linkedin"></i></a>
+<a href="https://pinterest.com/pin/create/button/?url=https://www.iienstitu.com/blog/java-web-programlama-dili-nedir&description=Java Web Programlama Dili Nedir?&media=https://www.iienstitu.com/uploads/enstitu-blog-foto-07/java-web-1_op.png" target="_blank"><i class="fa fa-pinterest" target="_blank"></i></a>
+</div>
+<div class="author">
+<img data-src="https://www.iienstitu.com/uploads/blog-yazarlari/sezer-aciler_w222_h222_op.jpg" class="lazyload" alt="Blogger">
+<div class="text">
+<div class="name"><a href="/yazarlar/sezer-aciler">Sezer Açiler</a></div>
+</div>
+<div class="right">
+<div class="text-title">Özgeçmiş</div>
+<p>Sezer AÇİLER, 19 Haziran 1995 tarihinde Sakarya’da dünyaya geldi. 2018 yılında Sakarya Üniversitesi Sosyoloji bölümünü bitirdi. Gayrimenkul danışmanı, stajyer sosyolog ve Felsefe Grubu öğretmeni olarak çalıştı. Sertifika programlarına katıldı. 2019 yılında İstanbul İşletme Enstitüsünde blog yazarı olarak çalışmaya başladı.</p>
+<a href="https://www.iienstitu.com/yazarlar/sezer-aciler" class="more">Devamı <i class="fa fa-chevron-down"></i></a>
+</div>
+</div>
+<div class="clr"></div>
+</div>
+<div class="tags">
+<a href="javascript:;">java programlama</a>
+<a href="javascript:;">java kodlama</a>
+<a href="javascript:;">java dili</a>
+<a href="javascript:;">java ile android</a>
+<a href="javascript:;">programlama dili</a>
+<a href="javascript:;">web programlama dili</a>
+<a href="javascript:;">java web programlama</a>
+</div>
+<div class="yorumlar" id="yorumlar">
+<div class="title">Yorumlar<span>(0)</span></div>
+<div class="rate">
+<span>Ortalama Değerlendirme <b>5</b></span>
+<div class="stars">
+<span></span><span></span><span></span><span></span><span></span>
+</div>
+</div>
+<div class="clr returnResponse"></div>
+<div class="alert alert-danger" id="error-comment_form" style="display: none">
+<ul></ul>
+</div>
+<div class="inputarea">
+<form action="/blog/java-web-programlama-dili-nedir/sendForm" id="comment_form">
+<input type="hidden" name="_token" value="mkm3hQCrcVeH9RKlvtkJMW1yx2rqe9jLp7XEd3B7">
+<p>Yorum yapabilmek için <a href="https://www.iienstitu.com/giris?next=https%3A%2F%2Fwww.iienstitu.com%2Fblog%2Fjava-web-programlama-dili-nedir">Oturum Aç</a>'manız gerekmektedir.</p>
+</form>
+</div>
+<div class="inputarea">
+Yorum yapılmamış, yapan ilk sen ol!
+</div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="sidebar">
+<b>Benzer Yazılar</b>
+<ul>
+<li>
+<a href="https://www.iienstitu.com/blog/is-hayati-egitimleri">
+<img data-src="https://www.iienstitu.com/uploads/blog-yazilari-13/is-hayati-egitimleri_w82_h73_op.jpeg" class="lazyload" alt="İş hayatı, iş hayatı eğitimleri, iş hayatında yükselmek için öneriler, eğitimler, sertifika">
+<div class="title">İş Hayatı Eğitimleri</div>
+<div class="date">01 Nisan 2020</div>
+</a>
+</li>
+<li>
+<a href="https://www.iienstitu.com/blog/zaman-yonetimi-nedir">
+<img data-src="https://www.iienstitu.com/uploads/blog-yazilari-13/zaman-yonetimi-nedir_w82_h73_op.jpeg" class="lazyload" alt="zaman yönetimi, zaman, kişisel zaman yönetimi, örgütsel zaman yönetimi, zaman yönetiminin önemi">
+<div class="title">Zaman Yönetimi Nedir?</div>
+<div class="date">01 Nisan 2020</div>
+</a>
+</li>
+<li>
+<a href="https://www.iienstitu.com/blog/yazma-yeteneklerinizi-gelistirin">
+<img data-src="https://www.iienstitu.com/uploads/blog-yazilari-13/yazma-yeteneklerinizi-gelistirin_w82_h73_op.jpeg" class="lazyload" alt="yaratıcı yazarlık, yazarlık atölyesi, yazarlık eğitimi, editörlük, iyi yazı yazmak, yazı yazmak,yazma yeteneği">
+<div class="title">Yazma Yeteneklerinizi Geliştirin</div>
+<div class="date">31 Mart 2020</div>
+</a>
+</li>
+<li>
+<a href="https://www.iienstitu.com/blog/bootstrap-nedir">
+<img data-src="https://www.iienstitu.com/uploads/blog-yazilari-13/bootstrap-nedir-4_w82_h73_op.jpeg" class="lazyload" alt="bootstrap, bootstrap grid, bootstrap 3, bootstrap cdn, bootstrap nedir, temel programlamaya giriş">
+<div class="title">Bootstrap Nedir? </div>
+<div class="date">31 Mart 2020</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-4 col-lg-3">
+<div class="title">Uygulamalar</div>
+<div class="app">
+<a href="https://apps.apple.com/tr/app/enstitu/id1468878779" target="_blank"><img data-src="https://www.iienstitu.com/img/appstore.png" class="lazyload" alt="Apple Store"></a>
+<a href="https://www.microsoft.com/tr-tr/p/enstitu/9nrwtzpd7jk4?activetab=pivot:overviewtab" target="_blank"><img data-src="https://www.iienstitu.com/img/windows.png" class="lazyload" alt="windows"></a>
+</div>
+</div>
+<div class="col-md-4 col-lg-3">
+<div class="title">Sosyal Medyada Biz</div>
+<div class="sosyal">
+<a href="https://www.facebook.com/iienstitu/" target="_blank"><i class="fab fa-facebook"></i></a>
+<a href="https://www.instagram.com/iienstitu/" target="_blank"><i class="fab fa-instagram"></i></a>
+<a href="https://www.linkedin.com/school/istanbul-i%C5%9Fletme-enstit%C3%BCs%C3%BC/?originalSubdomain=tr" target="_blank"><i class="fab fa-linkedin"></i></a>
+<a href="https://www.youtube.com/channel/UCy8wmDtHhnfCEnWks30QoEw" target="_blank"><i class="fab fa-youtube"></i></a>
+</div>
+</div>
+<div class="col-md-4 col-lg-3 offset-lg-3">
+<div class="logolar">
+<div class="pull-right">
+<img data-src="https://www.iienstitu.com/img/visa.svg" class="lazyload" alt="Visa">
+<img data-src="https://www.iienstitu.com/img/mastercard.svg" class="lazyload" alt="Mastercard">
+<img data-src="https://www.iienstitu.com/img/ssl.svg" class="lazyload" alt="SSL">
+</div>
+</div>
+</div>
+</div>
+<div class="copy">
+<ul>
+<li><a href="https://www.iienstitu.com/sozlesmeler/gizlilik-ve-guvenlik-politikasi">GİZLİLİK VE GÜVENLİK POLİTİKASI</a></li>
+<li><a href="https://www.iienstitu.com/sozlesmeler/iptal-ve-iade-kosullari">İPTAL VE İADE KOŞULLARI</a></li>
+<li><a href="https://www.iienstitu.com/sozlesmeler/mesafeli-satis-sozlesmesi">MESAFELİ SATIŞ SÖZLEŞMESİ</a></li>
+<li><a href="https://www.iienstitu.com/sozlesmeler/uyelik-sozlesmesi">ÜYELİK SÖZLEŞMESİ</a></li>
+<li><a href="/site-haritasi">SİTE HARİTASI</a></li>
+</ul>
+</div>
+<div class="clearfix"></div>
+<div class="copy">
+<span>© İstanbul İşletme Enstitüsü. Her hakkı saklıdır. <br>All rights reserved.</span>
+</div>
+</div>
+</footer>
+<script type="49cc369430ec3adf02f9faab-text/javascript">
+    (self.personyze=self.personyze||[]).push(["User profile", "first_name", '']);
+</script>
+<script type="49cc369430ec3adf02f9faab-text/javascript">
+    (self.personyze=self.personyze||[]).push(["User profile", "email", '']);
+</script>
+<script type="49cc369430ec3adf02f9faab-text/javascript">
+    (self.personyze=self.personyze||[]).push(["User profile", "phone", ]);
+</script>
+<script type="49cc369430ec3adf02f9faab-text/javascript">
+    (self.personyze=self.personyze||[]).push(["User profile", "internal_text_id", '']);
+</script>
+<script type="49cc369430ec3adf02f9faab-text/javascript">
+    (self.personyze=self.personyze||[]).push(["User profile", "birthday", '']);
+</script>
+<script type="49cc369430ec3adf02f9faab-text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="0afd4db6-f806-40b5-8849-2bad25b8fa82";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+<script type="49cc369430ec3adf02f9faab-text/javascript">
+    $crisp.push(["set", "user:email", " "]);
+    $crisp.push(["set", "user:nickname", ""]);
+    $crisp.push(["set", "user:email", ["$email", "7ba1b993dcf7454f3e8f865baa209e1ea734b63823c8df5860a14a1a2383074d"]]);
+    var visitor_nickname = $crisp.get("user:nickname");
+</script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="" type="49cc369430ec3adf02f9faab-text/javascript"></script>
+<script type="49cc369430ec3adf02f9faab-text/javascript">
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(function() {
+        OneSignal.init({
+            appId: "90fc1d3c-c5db-43f8-a392-3c6ff5e60e8f",
+        });
+    });
+</script>
+<script src="https://www.iienstitu.com/js/lazysizes.min.js" type="49cc369430ec3adf02f9faab-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="49cc369430ec3adf02f9faab-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js" type="49cc369430ec3adf02f9faab-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" type="49cc369430ec3adf02f9faab-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" type="49cc369430ec3adf02f9faab-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/16.0.2/js/intlTelInput.min.js" type="49cc369430ec3adf02f9faab-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js" type="49cc369430ec3adf02f9faab-text/javascript"></script>
+<script src="https://www.iienstitu.com/js/valid.js" type="49cc369430ec3adf02f9faab-text/javascript"></script>
+<script src="https://www.iienstitu.com/js/scripts.js?v=1585829271" type="49cc369430ec3adf02f9faab-text/javascript"></script>
+
+<script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Article",
+      "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "https://www.iienstitu.com"
+      },
+      "headline": "Article headline",
+      "name" : "Java Web Programlama Dili Nedir?>",
+      "author" : {
+        "@type" : "Person",
+        "name" : "Sezer Açiler"
+      },
+      "datePublished" : "2020-01-03",
+      "dateModified" : "2020-04-02 11:14:17",
+      "image" : "https://www.iienstitu.com/uploads/enstitu-blog-foto-07/java-web-1_w1145_h572_op.png",
+      "publisher" : {
+        "@type" : "Organization",
+        "name" : "Enstitü",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.iienstitu.com/images/logo.png"
+        }
+      }
+    }
+    </script>
+<script type="49cc369430ec3adf02f9faab-text/javascript">
+        
+        $(document).ready(function(){
+
+            $('#yorumlar .inputarea input').on('input',function() {
+                if ($(this).val() != "") {
+                    $(this).parent().find('.rating').addClass('active');
+                }else{
+                    $(this).parent().find('.rating').removeClass('active');
+                }
+            });
+
+            $('#yorumlar button').click(function(e){
+                e.preventDefault();
+                $(this).parent().parent().parent().find('.hata').remove();
+                if ($("#yorumlar input[type=text]").val() == "") {
+                    $(this).parent().parent().after('<div class="hata">Yorum alanını doldurunuz.</div>');
+                }else if($(this).parent().find('input[type=radio]:checked').val() == undefined){
+                    $(this).parent().parent().after('<div class="hata">Lütfen puanlama yapınız.</div>');
+                }else{
+
+                    e.preventDefault();
+                    var form = $("#comment_form");
+                    var formUrl = form.attr('action');
+                    var formId = form.attr('id');
+                    var formData = form.serialize();
+
+                    $.ajax({
+                        url: formUrl,
+                        type: "post",
+                        data : formData,
+                        success: function (result){
+                            $('#yorumlar .inputarea').remove();
+                            $('.returnResponse').after('<div class="basari">Form başarıyla iletilmiştir. En kısa sürede tarafınıza geri dönüş yapılacaktır.</div>');
+                        },
+                        error: function (result){
+                            var arr = JSON.parse(result.responseText);
+                            $("div#error-" + formId + ">ul:first").html("");
+                            $.each(arr, function (k, v) {
+                                $("div#error-" + formId + ">ul:first").append('<li>' + v + "</li>").closest("div").show();
+                            });
+                        }
+                    });
+
+
+                    // $('#yorumlar .inputarea').after('<div class="basari">Yorumunuz başarılı bir şekilde alınmıştır.</div>');
+                    // $('#yorumlar .inputarea').remove();
+                }
+            });
+
+            $("form.sendForm").submit(function(e){
+                e.preventDefault();
+
+                var formData = $(this).serialize();
+
+                $('input[id="commentSendBtn"]').prop('disabled',true);
+
+                $.ajax({
+                    method: "POST",
+                    url: $(this).attr('action'),
+                    data: formData,
+                    cache: false
+                }).error(function(msg,error,statusCode){
+                    var message = ' <div class="alert alert-danger"><ul>';
+                    if(msg.status == 422){
+                        var data = JSON.parse(msg.responseText);
+                        for(var i in data){
+                            message += '<li>'+data[i]+'</li>';
+                        }
+                    }else{
+                        message += '<li>Kayıt hatası oluştu, lütfen daha sonra tekrar deneyiniz.</li>';
+                    }
+                    message += '</ul></div>';
+                    $('#alert-modal-body').html(message);
+
+                    $('input[id="commentSendBtn"]').prop('disabled',false);
+
+                }).done(function( data ) {
+                    $("form.sendForm")[0].reset();
+                    var message = ' <div class="alert alert-success"><ul><li>Yorumunuz gönderildi, yönetici onayının ardından yayınlanacaktır.</li></ul></div>';
+                    $('#alert-modal-body').html(message);
+
+                    $('input[id="commentSendBtn"]').prop('disabled',false);
+                });
+
+            });
+
+        });
+    </script>
+<script type="application/ld+json">
+    {
+     "@context":"https://schema.org",
+     "@type":"FAQPage",
+     "mainEntity": [{"@type":"Question","name":"Java Web Programlama Dili Nedir?","acceptedAnswer":{"@type":"Answer","text":"1996 yılında geliştirilen açık kodlu programlama dilidir.&nbsp; Platformdan bağımsız, nesneye dönük ve çok işlevli bir dildir. Hızlı uygulama geliştirici ve kolay öğrenilen bir dildir."}},{"@type":"Question","name":"&nbsp;Java ile Android Programlama Arasındaki İlişki Nedir?","acceptedAnswer":{"@type":"Answer","text":"Android’de uygulama geliştirirken Java dili bilmek gerekir. Android, Java yazılım çekirdeğinden yaratılmıştır. Java dilini bilmenin yanında Java JDK, Eclipse ve Android SDK araçları yardımıyla Android uygulamalar yapılır.\n"}},{"@type":"Question","name":"Java Programlama Bireye Hangi Kazanımları Sağlar?","acceptedAnswer":{"@type":"Answer","text":"Bu programlama dilini bilen kişiler dünyanın her yerinde iş bulma fırsatı yakalar. Java dili basit bir dil olduğundan öğrenilmesi kolaydır. Java ile yazmış olduğunuz uygulamalar her platformda kullanılır bu da uygulamalarınızın kolayca yayılmasını sağlar."}}]
+        }
+    </script>
+<noscript>
+        <img height="1" width="1"
+             src="https://www.facebook.com/tr?id=203007593873124&ev=PageView&noscript=1"/>
+    </noscript>
+
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="49cc369430ec3adf02f9faab-|49" defer=""></script></body>
+</html>
